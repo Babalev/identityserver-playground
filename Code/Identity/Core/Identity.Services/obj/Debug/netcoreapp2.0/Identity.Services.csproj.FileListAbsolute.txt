@@ -1,0 +1,9 @@
+D:\Projects\identityserver-playground\Code\Identity\Core\Identity.Services\bin\Debug\netcoreapp2.0\Identity.Services.deps.json
+D:\Projects\identityserver-playground\Code\Identity\Core\Identity.Services\bin\Debug\netcoreapp2.0\Identity.Services.dll
+D:\Projects\identityserver-playground\Code\Identity\Core\Identity.Services\bin\Debug\netcoreapp2.0\Identity.Services.pdb
+D:\Projects\identityserver-playground\Code\Identity\Core\Identity.Services\obj\Debug\netcoreapp2.0\Identity.Services.csprojResolveAssemblyReference.cache
+D:\Projects\identityserver-playground\Code\Identity\Core\Identity.Services\obj\Debug\netcoreapp2.0\Identity.Services.csproj.CoreCompileInputs.cache
+D:\Projects\identityserver-playground\Code\Identity\Core\Identity.Services\obj\Debug\netcoreapp2.0\Identity.Services.AssemblyInfoInputs.cache
+D:\Projects\identityserver-playground\Code\Identity\Core\Identity.Services\obj\Debug\netcoreapp2.0\Identity.Services.AssemblyInfo.cs
+D:\Projects\identityserver-playground\Code\Identity\Core\Identity.Services\obj\Debug\netcoreapp2.0\Identity.Services.dll
+D:\Projects\identityserver-playground\Code\Identity\Core\Identity.Services\obj\Debug\netcoreapp2.0\Identity.Services.pdb

@@ -1,0 +1,11 @@
+D:\Projects\identityserver-playground\Code\Identity\Server\Identity.Server\bin\Debug\netcoreapp2.0\Identity.Server.deps.json
+D:\Projects\identityserver-playground\Code\Identity\Server\Identity.Server\bin\Debug\netcoreapp2.0\Identity.Server.runtimeconfig.json
+D:\Projects\identityserver-playground\Code\Identity\Server\Identity.Server\bin\Debug\netcoreapp2.0\Identity.Server.runtimeconfig.dev.json
+D:\Projects\identityserver-playground\Code\Identity\Server\Identity.Server\bin\Debug\netcoreapp2.0\Identity.Server.dll
+D:\Projects\identityserver-playground\Code\Identity\Server\Identity.Server\obj\Debug\netcoreapp2.0\Identity.Server.csprojResolveAssemblyReference.cache
+D:\Projects\identityserver-playground\Code\Identity\Server\Identity.Server\obj\Debug\netcoreapp2.0\Identity.Server.csproj.CoreCompileInputs.cache
+D:\Projects\identityserver-playground\Code\Identity\Server\Identity.Server\obj\Debug\netcoreapp2.0\Identity.Server.AssemblyInfoInputs.cache
+D:\Projects\identityserver-playground\Code\Identity\Server\Identity.Server\obj\Debug\netcoreapp2.0\Identity.Server.AssemblyInfo.cs
+D:\Projects\identityserver-playground\Code\Identity\Server\Identity.Server\bin\Debug\netcoreapp2.0\Identity.Server.pdb
+D:\Projects\identityserver-playground\Code\Identity\Server\Identity.Server\obj\Debug\netcoreapp2.0\Identity.Server.dll
+D:\Projects\identityserver-playground\Code\Identity\Server\Identity.Server\obj\Debug\netcoreapp2.0\Identity.Server.pdb
